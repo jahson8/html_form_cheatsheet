@@ -1,0 +1,25 @@
+/* Base Styles */
+
+*{
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+
+body{
+    font-size: 1em;
+    line-height: 1.5;
+    color: #252526;
+    background-color: #F7F7F8;
+}
+
+h1,
+h2 {
+    color:#65659F;
+    text-align: center;
+}
+
+.code{
+    font-family: monospace;
+    color:#F26CA7;
+}
